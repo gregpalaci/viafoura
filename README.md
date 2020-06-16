@@ -1,5 +1,8 @@
 # viafoura
 
+This project uses vue.js, it also makes use of gravatar, md5, and dayjs (a light alternative to moment)
+
+
 ## Project setup
 ```
 yarn install
